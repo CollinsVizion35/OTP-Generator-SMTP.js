@@ -13,4 +13,4 @@ Used--
 
 In collaboration with Elastic Email, generate Your password when you logon to smtpjs.com
 
-![smtp sample]([https://myoctocat.com/assets/images/base-octocat.svg](https://raw.githubusercontent.com/CollinsVizion35/OTP-Generator-SMTP.js/main/OTP%20Generator/server%20creation%20SMTP.JPG))
+![smtp sample](https://raw.githubusercontent.com/CollinsVizion35/OTP-Generator-SMTP.js/main/OTP%20Generator/server%20creation%20SMTP.JPG)
