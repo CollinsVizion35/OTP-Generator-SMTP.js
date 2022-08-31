@@ -8,3 +8,7 @@ Used--
 ## Jquery
 ## HTML
 ## Tailwind and CSS
+
+#SMTP.js APi
+
+In collaboration with Elastic Email, generate Your password
