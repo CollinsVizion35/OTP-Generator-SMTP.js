@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #212D3A;
+}
+
+body {
+    font-family: "Roboto";
+    color: #fff;
+    background-color: #212D3A;
+    transition: background-color .25s, color .25s;
+    max-width: 100vw;
+    overflow-x: hidden;
+    /* font-family: "Merienda"; */
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.submit {
+    background-color: rgb(68, 68, 219);
+}
+
+#email {
+    width: 200%;
+}
+
+#email,
+#OTP {
+    color: #212D3A;
+}
+
+.OTPPage {
+    margin-block: auto;
+    display: none;
+}
+
+.alert-box {
+    background-color: #fff;
+    padding: 1em;
+    color: red;
+    width: max-content;
+    top: 5%;
+    margin-inline: auto;
+    left: 0;
+    right: 0;
+    display: none;
+}
+
+#OTP {
+    letter-spacing: 22px;
+    width: 190px;
+    margin-inline: auto;
+    text-decoration: dashed;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+#resendCode {
+    background-color: inherit;
+    color: rgb(73, 127, 226);
+}
